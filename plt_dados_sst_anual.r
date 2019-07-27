@@ -1,8 +1,10 @@
-###################################################################
-# Maria Leidinice da Silva 30/04/2018                             #
-# Plot serie temporal da TSM                                      #
-# leidinicesilva@gmail.com                                        #
-###################################################################
+# Author      = Leidinice Silva
+# Email       = leidinicesilva@gmail.com
+# Date        = 04/30/2018
+# Description = Plot time series from SST
+
+
+# INIT #
 
 rm(list=ls(all=TRUE))
 
